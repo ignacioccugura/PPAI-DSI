@@ -1,0 +1,1132 @@
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping Buy All.csprojAssemblyReference.cache
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_ABM_Articulos.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Borrar_Articulo.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Modificar_Articulo.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Mostrar_Articulo.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Nuevo_Articulo.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_ABM_Automoviles.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Borrar_Automovil.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Modificar_Automovil.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Mostrar_Automovil.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Nuevo_Automovil.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_ABM_Clientes.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Alta_Cliente.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Borrar_Cliente.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Modificar_Clientes.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Frm_Escritorio.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Frm_Login.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_ABM_Marcas_Modelos_Autos.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Eliminar_Marca.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Eliminar_Modelo.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Modificar_Marca.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Modificar_Modelo.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Nueva_Marca.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Nuevo_Modelo.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_ABM_Usuarios.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Borrar_Usuarios.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Modificar_Usuarios.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Mostrar_Usuarios.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Nuevo_Usuarios.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Properties.Resources.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.GenerateResource.cache
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\bin\Debug\Shopping Buy All.exe.config
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\bin\Debug\Shopping Buy All.exe
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\bin\Debug\Shopping Buy All.pdb
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping Buy All.exe
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping Buy All.pdb
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ABM_Proveedor.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ConsultarProveedor.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.EliminarProveedor.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ModificarProveedor.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.RegistrarProveedor.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ABM_Local.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ConsultarLocal.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.EliminarLocal.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ModificarLocal.resources
+C:\Users\Rodrigo\source\repos\Shopping Buy All\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.RegistrarLocal.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\bin\Debug\Shopping Buy All.exe.config
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\bin\Debug\Shopping Buy All.exe
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\bin\Debug\Shopping Buy All.pdb
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping Buy All.csprojAssemblyReference.cache
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_ABM_Articulos.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Borrar_Articulo.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Modificar_Articulo.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Mostrar_Articulo.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Nuevo_Articulo.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_ABM_Automoviles.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Borrar_Automovil.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Modificar_Automovil.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Mostrar_Automovil.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Nuevo_Automovil.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_ABM_Clientes.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Alta_Cliente.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Borrar_Cliente.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Modificar_Clientes.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Frm_Escritorio.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Frm_Login.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ABM_Local.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ConsultarLocal.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.EliminarLocal.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ModificarLocal.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.RegistrarLocal.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_ABM_Marcas_Modelos_Autos.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Eliminar_Marca.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Eliminar_Modelo.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Modificar_Marca.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Modificar_Modelo.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Nueva_Marca.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Nuevo_Modelo.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ABM_Proveedor.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ConsultarProveedor.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.EliminarProveedor.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ModificarProveedor.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.RegistrarProveedor.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_ABM_Usuarios.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Borrar_Usuarios.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Modificar_Usuarios.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Mostrar_Usuarios.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Nuevo_Usuarios.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Properties.Resources.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.GenerateResource.cache
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.CoreCompileInputs.cache
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping Buy All.exe
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping Buy All.pdb
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.ABMs_Rubros.ABM_Rubro.resources
+C:\Users\tinch\OneDrive\Escritorio\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.ABMs_Rubros.ModificarRubro.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\bin\Debug\Shopping Buy All.exe.config
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\bin\Debug\Shopping Buy All.exe
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\bin\Debug\Shopping Buy All.pdb
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping Buy All.csprojAssemblyReference.cache
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_ABM_Articulos.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Borrar_Articulo.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Modificar_Articulo.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Mostrar_Articulo.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Nuevo_Articulo.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_ABM_Automoviles.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Borrar_Automovil.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Modificar_Automovil.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Mostrar_Automovil.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Nuevo_Automovil.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_ABM_Clientes.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Alta_Cliente.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Borrar_Cliente.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Modificar_Clientes.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Frm_Escritorio.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Frm_Login.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ABM_Local.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ConsultarLocal.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.EliminarLocal.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ModificarLocal.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.RegistrarLocal.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Modificar_Marca.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Modificar_Modelo.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Nueva_Marca.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Nuevo_Modelo.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ABM_Proveedor.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ConsultarProveedor.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.EliminarProveedor.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ModificarProveedor.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.RegistrarProveedor.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.ABMs_Rubros.ABM_Rubro.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.ABMs_Rubros.ModificarRubro.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_ABM_Usuarios.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Borrar_Usuarios.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Modificar_Usuarios.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Mostrar_Usuarios.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Nuevo_Usuarios.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Properties.Resources.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.GenerateResource.cache
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.CoreCompileInputs.cache
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping Buy All.exe
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping Buy All.pdb
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Clases.DateTimePicker01.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_ABM_MarcasModelosAutos.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_ABM_MarcasTiposTarjetas.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Modificar_Marca.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Modificar_Tipo.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Nueva_Marca.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Nuevo_Tipo.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_ABM_Tarjetas.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Borrar_Tarjeta.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Modificar_Tarjeta.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Mostrar_Tarjeta.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Nueva_Tarjeta.resources
+E:\Escritorio\SHOPPING BUY ALL\Rodri nuevo\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.CopyComplete
+D:\Josee\Shopping.V_2.0\Shopping Buy All\bin\Debug\Shopping Buy All.exe.config
+D:\Josee\Shopping.V_2.0\Shopping Buy All\bin\Debug\Shopping Buy All.exe
+D:\Josee\Shopping.V_2.0\Shopping Buy All\bin\Debug\Shopping Buy All.pdb
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Clases.DateTimePicker01.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_ABM_Articulos.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Borrar_Articulo.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Modificar_Articulo.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Mostrar_Articulo.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Nuevo_Articulo.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_ABM_Automoviles.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Borrar_Automovil.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Modificar_Automovil.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Mostrar_Automovil.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Nuevo_Automovil.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_ABM_Clientes.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Alta_Cliente.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Borrar_Cliente.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Modificar_Clientes.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Frm_Escritorio.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Frm_Login.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ABM_Local.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ConsultarLocal.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.EliminarLocal.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ModificarLocal.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.RegistrarLocal.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_ABM_MarcasModelosAutos.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Modificar_Marca.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Modificar_Modelo.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Nueva_Marca.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Nuevo_Modelo.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_ABM_MarcasTiposTarjetas.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Modificar_Marca.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Modificar_Tipo.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Nueva_Marca.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Nuevo_Tipo.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ABM_Proveedor.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ConsultarProveedor.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.EliminarProveedor.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ModificarProveedor.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.RegistrarProveedor.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_ABM_RazonSocial.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.ABMs_Rubros.ABM_Rubro.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.ABMs_Rubros.ModificarRubro.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_ABM_Tarjetas.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Borrar_Tarjeta.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Modificar_Tarjeta.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Mostrar_Tarjeta.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Nueva_Tarjeta.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_ABM_Usuarios.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Borrar_Usuarios.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Modificar_Usuarios.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Mostrar_Usuarios.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Nuevo_Usuarios.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Properties.Resources.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.GenerateResource.cache
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.CoreCompileInputs.cache
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.CopyComplete
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.exe
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.pdb
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_Modificar_RazonSocial.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_Nuevo_RazonSocial.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Ventas.Frm_Ventas.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Rubros.Registrar_Rubro.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\bin\Debug\Shopping Buy All.exe.config
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\bin\Debug\Shopping Buy All.exe
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\bin\Debug\Shopping Buy All.pdb
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Clases.DateTimePicker01.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_ABM_Articulos.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Borrar_Articulo.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Modificar_Articulo.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Mostrar_Articulo.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Nuevo_Articulo.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_ABM_Automoviles.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Borrar_Automovil.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Modificar_Automovil.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Mostrar_Automovil.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Nuevo_Automovil.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_ABM_Clientes.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Alta_Cliente.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Borrar_Cliente.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Modificar_Clientes.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Frm_Escritorio.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Frm_Login.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ABM_Local.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ConsultarLocal.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.EliminarLocal.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ModificarLocal.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.RegistrarLocal.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_ABM_MarcasModelosAutos.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Modificar_Marca.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Modificar_Modelo.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Nueva_Marca.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Nuevo_Modelo.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_ABM_MarcasTiposTarjetas.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Modificar_Marca.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Modificar_Tipo.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Nueva_Marca.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Nuevo_Tipo.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Profesiones.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ABM_Proveedor.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ConsultarProveedor.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.EliminarProveedor.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ModificarProveedor.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.RegistrarProveedor.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_ABM_RazonSocial.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_Modificar_RazonSocial.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_Nuevo_RazonSocial.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.ABMs_Rubros.ABM_Rubro.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.ABMs_Rubros.ModificarRubro.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Rubros.Registrar_Rubro.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_ABM_Tarjetas.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Borrar_Tarjeta.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Modificar_Tarjeta.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Mostrar_Tarjeta.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Nueva_Tarjeta.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_ABM_Usuarios.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Borrar_Usuarios.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Modificar_Usuarios.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Mostrar_Usuarios.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Nuevo_Usuarios.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Ventas.Frm_Ventas.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Properties.Resources.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.GenerateResource.cache
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.CoreCompileInputs.cache
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.CopyComplete
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.exe
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.pdb
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.csprojAssemblyReference.cache
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Modificar_Profesion.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Nueva_Profesion.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.csprojAssemblyReference.cache
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Modificar_Profesion.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Nueva_Profesion.resources
+D:\Josee\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Profesiones.resources
+C:\Users\dayke\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Pedidos.Frm_Pedidos.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\bin\Debug\Shopping Buy All.exe.config
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\bin\Debug\Shopping Buy All.exe
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\bin\Debug\Shopping Buy All.pdb
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Clases.DateTimePicker01.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_ABM_Articulos.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Borrar_Articulo.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Modificar_Articulo.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Mostrar_Articulo.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Nuevo_Articulo.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_ABM_Automoviles.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Borrar_Automovil.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Modificar_Automovil.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Mostrar_Automovil.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Nuevo_Automovil.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_ABM_Clientes.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Alta_Cliente.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Borrar_Cliente.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Modificar_Clientes.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Frm_Escritorio.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Frm_Login.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ABM_Local.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ConsultarLocal.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.EliminarLocal.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ModificarLocal.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.RegistrarLocal.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_ABM_MarcasModelosAutos.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Modificar_Marca.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Modificar_Modelo.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Nueva_Marca.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Nuevo_Modelo.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_ABM_MarcasTiposTarjetas.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Modificar_Marca.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Modificar_Tipo.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Nueva_Marca.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Nuevo_Tipo.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Pedidos.Frm_Pedidos.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Modificar_Profesion.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Nueva_Profesion.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Profesiones.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ABM_Proveedor.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ConsultarProveedor.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.EliminarProveedor.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ModificarProveedor.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.RegistrarProveedor.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_ABM_RazonSocial.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_Modificar_RazonSocial.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_Nuevo_RazonSocial.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.ABMs_Rubros.ABM_Rubro.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.ABMs_Rubros.ModificarRubro.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Rubros.Registrar_Rubro.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_ABM_Tarjetas.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Borrar_Tarjeta.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Modificar_Tarjeta.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Mostrar_Tarjeta.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Nueva_Tarjeta.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_ABM_Usuarios.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Borrar_Usuarios.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Modificar_Usuarios.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Mostrar_Usuarios.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Nuevo_Usuarios.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Ventas.Frm_Ventas.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Properties.Resources.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.GenerateResource.cache
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.CopyComplete
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.exe
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.pdb
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Remito.Frm_Remito.resources
+C:\Users\Ricardo\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.csprojAssemblyReference.cache
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\bin\Debug\Shopping Buy All.exe.config
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\bin\Debug\Shopping Buy All.exe
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\bin\Debug\Shopping Buy All.pdb
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.csprojAssemblyReference.cache
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Clases.DateTimePicker01.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_ABM_Articulos.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Borrar_Articulo.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Modificar_Articulo.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Mostrar_Articulo.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Nuevo_Articulo.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_ABM_Automoviles.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Borrar_Automovil.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Modificar_Automovil.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Mostrar_Automovil.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Nuevo_Automovil.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_ABM_Clientes.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Alta_Cliente.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Borrar_Cliente.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Modificar_Clientes.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Frm_Escritorio.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Frm_Login.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ABM_Local.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ConsultarLocal.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.EliminarLocal.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ModificarLocal.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.RegistrarLocal.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_ABM_MarcasModelosAutos.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Modificar_Marca.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Modificar_Modelo.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Nueva_Marca.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Nuevo_Modelo.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_ABM_MarcasTiposTarjetas.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Modificar_Marca.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Modificar_Tipo.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Nueva_Marca.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Nuevo_Tipo.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Pedidos.Frm_Pedidos.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Modificar_Profesion.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Nueva_Profesion.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Profesiones.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ABM_Proveedor.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ConsultarProveedor.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.EliminarProveedor.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ModificarProveedor.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.RegistrarProveedor.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_ABM_RazonSocial.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_Modificar_RazonSocial.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_Nuevo_RazonSocial.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Remito.Frm_Remito.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.ABMs_Rubros.ABM_Rubro.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.ABMs_Rubros.ModificarRubro.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Rubros.Registrar_Rubro.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_ABM_Tarjetas.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Borrar_Tarjeta.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Modificar_Tarjeta.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Mostrar_Tarjeta.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Nueva_Tarjeta.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_ABM_Usuarios.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Borrar_Usuarios.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Modificar_Usuarios.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Mostrar_Usuarios.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Nuevo_Usuarios.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Ventas.Frm_Ventas.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Properties.Resources.resources
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.GenerateResource.cache
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.CoreCompileInputs.cache
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.CopyComplete
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.exe
+C:\Users\amiko\Downloads\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.pdb
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\bin\Debug\Shopping Buy All.exe.config
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\bin\Debug\Shopping Buy All.exe
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\bin\Debug\Shopping Buy All.pdb
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.csprojAssemblyReference.cache
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Clases.DateTimePicker01.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_ABM_Articulos.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Borrar_Articulo.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Modificar_Articulo.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Mostrar_Articulo.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Nuevo_Articulo.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_ABM_Automoviles.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Borrar_Automovil.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Modificar_Automovil.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Mostrar_Automovil.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Nuevo_Automovil.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_ABM_Clientes.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Alta_Cliente.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Borrar_Cliente.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Modificar_Clientes.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Frm_Escritorio.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Frm_Login.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ABM_Local.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ConsultarLocal.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.EliminarLocal.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ModificarLocal.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.RegistrarLocal.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_ABM_MarcasModelosAutos.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Modificar_Marca.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Modificar_Modelo.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Nueva_Marca.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Nuevo_Modelo.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_ABM_MarcasTiposTarjetas.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Modificar_Marca.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Modificar_Tipo.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Nueva_Marca.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Nuevo_Tipo.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Pedidos.Frm_Pedidos.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Modificar_Profesion.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Nueva_Profesion.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Profesiones.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ABM_Proveedor.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ConsultarProveedor.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.EliminarProveedor.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ModificarProveedor.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.RegistrarProveedor.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_ABM_RazonSocial.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_Modificar_RazonSocial.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_Nuevo_RazonSocial.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Remito.Frm_Remito.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.ABMs_Rubros.ABM_Rubro.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.ABMs_Rubros.ModificarRubro.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Rubros.Registrar_Rubro.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_ABM_Tarjetas.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Borrar_Tarjeta.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Modificar_Tarjeta.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Mostrar_Tarjeta.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Nueva_Tarjeta.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_ABM_Usuarios.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Borrar_Usuarios.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Modificar_Usuarios.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Mostrar_Usuarios.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Nuevo_Usuarios.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Ventas.Frm_Ventas.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Properties.Resources.resources
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.GenerateResource.cache
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.CoreCompileInputs.cache
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.CopyComplete
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.exe
+C:\Users\amiko\Desktop\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.pdb
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\bin\Debug\Shopping Buy All.exe.config
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\bin\Debug\Shopping Buy All.exe
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\bin\Debug\Shopping Buy All.pdb
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.csprojAssemblyReference.cache
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Clases.DateTimePicker01.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_ABM_Articulos.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Borrar_Articulo.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Modificar_Articulo.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Mostrar_Articulo.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Nuevo_Articulo.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_ABM_Automoviles.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Borrar_Automovil.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Modificar_Automovil.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Mostrar_Automovil.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Nuevo_Automovil.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_ABM_Clientes.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Alta_Cliente.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Borrar_Cliente.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Modificar_Clientes.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Frm_Escritorio.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Frm_Login.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ABM_Local.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ConsultarLocal.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.EliminarLocal.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ModificarLocal.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.RegistrarLocal.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_ABM_MarcasModelosAutos.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Modificar_Marca.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Modificar_Modelo.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Nueva_Marca.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Nuevo_Modelo.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_ABM_MarcasTiposTarjetas.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Modificar_Marca.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Modificar_Tipo.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Nueva_Marca.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Nuevo_Tipo.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Pedidos.Frm_Pedidos.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Modificar_Profesion.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Nueva_Profesion.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Profesiones.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ABM_Proveedor.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ConsultarProveedor.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.EliminarProveedor.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ModificarProveedor.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.RegistrarProveedor.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_ABM_RazonSocial.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_Modificar_RazonSocial.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_Nuevo_RazonSocial.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Remito.Frm_Remito.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.ABMs_Rubros.ABM_Rubro.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.ABMs_Rubros.ModificarRubro.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Rubros.Registrar_Rubro.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_ABM_Tarjetas.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Borrar_Tarjeta.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Modificar_Tarjeta.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Mostrar_Tarjeta.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Nueva_Tarjeta.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_ABM_Usuarios.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Borrar_Usuarios.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Modificar_Usuarios.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Mostrar_Usuarios.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Nuevo_Usuarios.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Ventas.Frm_Ventas.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Properties.Resources.resources
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.GenerateResource.cache
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.CopyComplete
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.exe
+C:\Users\Ricardo\Desktop\Ultima version de pav\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.pdb
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\bin\Debug\Shopping Buy All.exe
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\bin\Debug\Shopping Buy All.exe.config
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.csprojAssemblyReference.cache
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Clases.DateTimePicker01.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_ABM_Articulos.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Borrar_Articulo.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Modificar_Articulo.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Mostrar_Articulo.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Nuevo_Articulo.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_ABM_Automoviles.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Borrar_Automovil.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Modificar_Automovil.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Mostrar_Automovil.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Nuevo_Automovil.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_ABM_Clientes.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Alta_Cliente.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Borrar_Cliente.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Modificar_Clientes.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.Frm_Modificar_Estacionamiento.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.Frm_Registrar_Estacionamiento.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.Playa_Exterior_A.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.Playa_Exterior_B.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.Playa_Subsuelo.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.RecuperarEstacionamientos.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Frm_Escritorio.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Frm_Login.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ABM_Local.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ConsultarLocal.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.EliminarLocal.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ModificarLocal.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.RegistrarLocal.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_ABM_MarcasModelosAutos.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Modificar_Marca.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Modificar_Modelo.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Nueva_Marca.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Nuevo_Modelo.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_ABM_MarcasTiposTarjetas.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Modificar_Marca.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Modificar_Tipo.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Nueva_Marca.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Nuevo_Tipo.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Pedidos.Frm_Pedidos.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Modificar_Profesion.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Nueva_Profesion.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Profesiones.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ABM_Proveedor.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ConsultarProveedor.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.EliminarProveedor.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ModificarProveedor.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.RegistrarProveedor.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_ABM_RazonSocial.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_Modificar_RazonSocial.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_Nuevo_RazonSocial.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Remito.Frm_Remito.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.ABMs_Rubros.ABM_Rubro.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.ABMs_Rubros.ModificarRubro.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Rubros.Registrar_Rubro.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_ABM_Tarjetas.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Borrar_Tarjeta.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Modificar_Tarjeta.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Mostrar_Tarjeta.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Nueva_Tarjeta.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_ABM_Usuarios.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Borrar_Usuarios.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Modificar_Usuarios.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Mostrar_Usuarios.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Nuevo_Usuarios.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Ventas.Frm_Ventas.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping_Buy_All.Properties.Resources.resources
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.GenerateResource.cache
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.CoreCompileInputs.cache
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.CopyComplete
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.exe
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\obj\Debug\Shopping Buy All.pdb
+E:\Escritorio\SHOPPING BUY ALL\Shopping.V_2.0\Shopping Buy All\bin\Debug\Shopping Buy All.pdb
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Shopping Buy All.exe.config
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Shopping Buy All.exe
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Shopping Buy All.pdb
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping Buy All.csprojAssemblyReference.cache
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Clases.DateTimePicker01.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_ABM_Articulos.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Borrar_Articulo.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Modificar_Articulo.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Mostrar_Articulo.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Nuevo_Articulo.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_ABM_Automoviles.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Borrar_Automovil.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Modificar_Automovil.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Mostrar_Automovil.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Nuevo_Automovil.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_ABM_Clientes.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Alta_Cliente.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Borrar_Cliente.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Modificar_Clientes.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.Frm_Modificar_Estacionamiento.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.Frm_Registrar_Estacionamiento.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.Playa_Exterior_A.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.Playa_Exterior_B.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.Playa_Subsuelo.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.RecuperarEstacionamientos.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Frm_Escritorio.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Frm_Login.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ABM_Local.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ConsultarLocal.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.EliminarLocal.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ModificarLocal.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.RegistrarLocal.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_ABM_MarcasModelosAutos.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Modificar_Marca.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Modificar_Modelo.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Nueva_Marca.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Nuevo_Modelo.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_ABM_MarcasTiposTarjetas.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Modificar_Marca.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Modificar_Tipo.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Nueva_Marca.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Nuevo_Tipo.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Pedidos.Frm_Pedidos.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Modificar_Profesion.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Nueva_Profesion.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Profesiones.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ABM_Proveedor.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ConsultarProveedor.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.EliminarProveedor.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ModificarProveedor.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.RegistrarProveedor.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_ABM_RazonSocial.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_Modificar_RazonSocial.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_Nuevo_RazonSocial.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Remito.Frm_Remito.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.ABMs_Rubros.ABM_Rubro.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.ABMs_Rubros.ModificarRubro.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Rubros.Registrar_Rubro.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_ABM_Tarjetas.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Borrar_Tarjeta.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Modificar_Tarjeta.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Mostrar_Tarjeta.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Nueva_Tarjeta.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_ABM_Usuarios.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Borrar_Usuarios.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Modificar_Usuarios.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Mostrar_Usuarios.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Nuevo_Usuarios.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Ventas.Frm_Ventas.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Properties.Resources.resources
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.GenerateResource.cache
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.CoreCompileInputs.cache
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.CopyComplete
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping Buy All.exe
+C:\Users\dayke\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping Buy All.pdb
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Shopping Buy All.exe.config
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Shopping Buy All.exe
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Shopping Buy All.pdb
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping Buy All.csprojAssemblyReference.cache
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Clases.DateTimePicker01.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_ABM_Articulos.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Borrar_Articulo.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Modificar_Articulo.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Mostrar_Articulo.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Nuevo_Articulo.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_ABM_Automoviles.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Borrar_Automovil.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Modificar_Automovil.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Mostrar_Automovil.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Nuevo_Automovil.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_ABM_Clientes.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Alta_Cliente.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Borrar_Cliente.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Modificar_Clientes.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.Frm_Modificar_Estacionamiento.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.Frm_Registrar_Estacionamiento.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.Playa_Exterior_A.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.Playa_Exterior_B.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.Playa_Subsuelo.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.RecuperarEstacionamientos.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Frm_Escritorio.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Frm_Login.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ABM_Local.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ConsultarLocal.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.EliminarLocal.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ModificarLocal.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.RegistrarLocal.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_ABM_MarcasModelosAutos.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Modificar_Marca.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Modificar_Modelo.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Nueva_Marca.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Nuevo_Modelo.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_ABM_MarcasTiposTarjetas.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Modificar_Marca.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Modificar_Tipo.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Nueva_Marca.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Nuevo_Tipo.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Pedidos.Frm_Pedidos.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Modificar_Profesion.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Nueva_Profesion.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Profesiones.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ABM_Proveedor.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ConsultarProveedor.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.EliminarProveedor.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ModificarProveedor.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.RegistrarProveedor.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_ABM_RazonSocial.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_Modificar_RazonSocial.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_Nuevo_RazonSocial.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Remito.Frm_Remito.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.ABMs_Rubros.ABM_Rubro.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.ABMs_Rubros.ModificarRubro.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Rubros.Registrar_Rubro.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_ABM_Tarjetas.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Borrar_Tarjeta.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Modificar_Tarjeta.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Mostrar_Tarjeta.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Nueva_Tarjeta.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_ABM_Usuarios.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Borrar_Usuarios.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Modificar_Usuarios.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Mostrar_Usuarios.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Nuevo_Usuarios.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Ventas.Frm_Ventas.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Properties.Resources.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.GenerateResource.cache
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.CoreCompileInputs.cache
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.CopyComplete
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping Buy All.exe
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping Buy All.pdb
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Reportes.Frm_ReporteRemito.resources
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\EnvDTE.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\stdole.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.MSXML.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\RdlCompile.cache
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\RdlCompile.compiled
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Shopping Buy All.exe.config
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Shopping Buy All.exe
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Shopping Buy All.pdb
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\EnvDTE.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\stdole.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.MSXML.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping Buy All.csprojAssemblyReference.cache
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Clases.DateTimePicker01.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_ABM_Articulos.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Borrar_Articulo.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Modificar_Articulo.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Mostrar_Articulo.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Nuevo_Articulo.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_ABM_Automoviles.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Borrar_Automovil.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Modificar_Automovil.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Mostrar_Automovil.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Nuevo_Automovil.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_ABM_Clientes.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Alta_Cliente.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Borrar_Cliente.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Modificar_Clientes.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.Frm_Modificar_Estacionamiento.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.Frm_Registrar_Estacionamiento.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.Playa_Exterior_A.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.Playa_Exterior_B.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.Playa_Subsuelo.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.RecuperarEstacionamientos.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Frm_Escritorio.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Frm_Login.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ABM_Local.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ConsultarLocal.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.EliminarLocal.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ModificarLocal.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.RegistrarLocal.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_ABM_MarcasModelosAutos.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Modificar_Marca.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Modificar_Modelo.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Nueva_Marca.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Nuevo_Modelo.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_ABM_MarcasTiposTarjetas.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Modificar_Marca.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Modificar_Tipo.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Nueva_Marca.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Nuevo_Tipo.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Pedidos.Frm_Pedidos.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Modificar_Profesion.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Nueva_Profesion.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Profesiones.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ABM_Proveedor.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ConsultarProveedor.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.EliminarProveedor.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ModificarProveedor.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.RegistrarProveedor.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_ABM_RazonSocial.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_Modificar_RazonSocial.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_Nuevo_RazonSocial.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Remito.Frm_Remito.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Reportes.Frm_ReporteRemito.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.ABMs_Rubros.ABM_Rubro.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.ABMs_Rubros.ModificarRubro.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Rubros.Registrar_Rubro.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_ABM_Tarjetas.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Borrar_Tarjeta.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Modificar_Tarjeta.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Mostrar_Tarjeta.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Nueva_Tarjeta.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_ABM_Usuarios.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Borrar_Usuarios.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Modificar_Usuarios.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Mostrar_Usuarios.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Nuevo_Usuarios.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Ventas.Frm_Ventas.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Properties.Resources.resources
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.GenerateResource.cache
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\RdlCompile.cache
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\RdlCompile.compiled
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.CoreCompileInputs.cache
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.CopyComplete
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping Buy All.exe
+C:\Users\amiko\Desktop\shopping sin cagadas\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping Buy All.pdb
+C:\Users\amiko\Desktop\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Reportes.Frm_ReporteFacturas.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Shopping Buy All.exe.config
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Shopping Buy All.exe
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Shopping Buy All.pdb
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\EnvDTE.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\stdole.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.MSXML.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.AssemblyReference.cache
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Clases.DateTimePicker01.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_ABM_Articulos.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Borrar_Articulo.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Modificar_Articulo.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Mostrar_Articulo.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Articulos.Frm_Nuevo_Articulo.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_ABM_Automoviles.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Borrar_Automovil.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Modificar_Automovil.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Mostrar_Automovil.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Automoviles.Frm_Nuevo_Automovil.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_ABM_Clientes.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Alta_Cliente.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Borrar_Cliente.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Clientes.frm_Modificar_Clientes.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.Frm_Modificar_Estacionamiento.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.Frm_Registrar_Estacionamiento.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.Playa_Exterior_A.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.Playa_Exterior_B.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.Playa_Subsuelo.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Estacionamientos.RecuperarEstacionamientos.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Frm_Escritorio.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Frm_Login.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ABM_Local.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ConsultarLocal.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.EliminarLocal.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.ModificarLocal.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Locales.RegistrarLocal.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_ABM_MarcasModelosAutos.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Modificar_Marca.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Modificar_Modelo.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Nueva_Marca.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Modelos_de_Autos.Frm_Nuevo_Modelo.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_ABM_MarcasTiposTarjetas.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Modificar_Marca.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Modificar_Tipo.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Nueva_Marca.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Marcas_y_Tipos_de_Tarjetas.Frm_Nuevo_Tipo.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Pedidos.Frm_Pedidos.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Modificar_Profesion.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Nueva_Profesion.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Profesiones.Frm_Profesiones.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ABM_Proveedor.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ConsultarProveedor.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.EliminarProveedor.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.ModificarProveedor.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Proveedores.RegistrarProveedor.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_ABM_RazonSocial.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_Modificar_RazonSocial.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Razones_Sociales.Frm_Nuevo_RazonSocial.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Remito.Frm_Remito.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Reportes.Frm_ReporteFacturas.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Reportes.Frm_ReporteRemito.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.ABMs_Rubros.ABM_Rubro.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.ABMs_Rubros.ModificarRubro.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Rubros.Registrar_Rubro.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_ABM_Tarjetas.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Borrar_Tarjeta.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Modificar_Tarjeta.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Mostrar_Tarjeta.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Tarjetas.Frm_Nueva_Tarjeta.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_ABM_Usuarios.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Borrar_Usuarios.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Modificar_Usuarios.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Mostrar_Usuarios.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Usuarios.Frm_Nuevo_Usuarios.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Ventas.Frm_Ventas.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Properties.Resources.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.GenerateResource.cache
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.CoreCompileInputs.cache
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping Buy All.csproj.CopyComplete
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping Buy All.exe
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping Buy All.pdb
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\PPAI_CU92_G2.Formularios.Frm_FormularioDeReserva.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\PPAI_CU92_G2.Formularios.Frm_inicio.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\PPAI_CU92_G2.Formularios.Frm_SeleccionEscuela.resources

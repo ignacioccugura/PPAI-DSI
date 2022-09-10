@@ -1,0 +1,441 @@
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Clases.DateTimePicker01.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\PPAI_CU92_G2.Formularios.Frm_FormularioDeReserva.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\PPAI_CU92_G2.Formularios.Frm_inicio.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\PPAI_CU92_G2.Formularios.Frm_SeleccionEscuela.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Properties.Resources.resources
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\PPAI_CU92_G2.csproj.GenerateResource.cache
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\PPAI_CU92_G2.csproj.CoreCompileInputs.cache
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Shopping Buy All.exe.config
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Shopping Buy All.exe
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Shopping Buy All.pdb
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\EnvDTE.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\stdole.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.MSXML.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\PPAI_CU92_G2.csproj.CopyComplete
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping Buy All.exe
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping Buy All.pdb
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\PPAI_CU92_G2.csproj.AssemblyReference.cache
+C:\Users\tinch\OneDrive\Escritorio\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Form1.resources
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Shopping Buy All.exe.config
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Shopping Buy All.exe
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Shopping Buy All.pdb
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\EnvDTE.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\stdole.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\Microsoft.MSXML.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\PPAI_CU92_G2.csproj.AssemblyReference.cache
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Clases.DateTimePicker01.resources
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Form1.resources
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\PPAI_CU92_G2.Formularios.Frm_FormularioDeReserva.resources
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\PPAI_CU92_G2.Formularios.Frm_inicio.resources
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\PPAI_CU92_G2.Formularios.Frm_SeleccionEscuela.resources
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping_Buy_All.Properties.Resources.resources
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\PPAI_CU92_G2.csproj.GenerateResource.cache
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\PPAI_CU92_G2.csproj.CoreCompileInputs.cache
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\PPAI_CU92_G2.csproj.CopyComplete
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping Buy All.exe
+D:\DSI\Shopping Buy All_VersionFinal\Shopping Buy All\obj\Debug\Shopping Buy All.pdb
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\Shopping_Buy_All.Clases.DateTimePicker01.resources
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\Shopping_Buy_All.Form1.resources
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\PPAI_CU92_G2.Formularios.Frm_FormularioDeReserva.resources
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\PPAI_CU92_G2.Formularios.Frm_inicio.resources
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\PPAI_CU92_G2.Formularios.Frm_SeleccionEscuela.resources
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\Shopping_Buy_All.Properties.Resources.resources
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\PPAI_CU92_G2.csproj.GenerateResource.cache
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\PPAI_CU92_G2.csproj.CoreCompileInputs.cache
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Shopping Buy All.exe.config
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Shopping Buy All.exe
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Shopping Buy All.pdb
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\EnvDTE.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\stdole.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.MSXML.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\PPAI_CU92_G2.csproj.CopyComplete
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\Shopping Buy All.exe
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\Shopping Buy All.pdb
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Shopping Buy All.exe.config
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Shopping Buy All.exe
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Shopping Buy All.pdb
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\EnvDTE.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\stdole.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.MSXML.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\PPAI_CU92_G2.csproj.AssemblyReference.cache
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\Shopping_Buy_All.Clases.DateTimePicker01.resources
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\Shopping_Buy_All.Form1.resources
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\PPAI_CU92_G2.Formularios.Frm_FormularioDeReserva.resources
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\PPAI_CU92_G2.Formularios.Frm_inicio.resources
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\PPAI_CU92_G2.Formularios.Frm_SeleccionEscuela.resources
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\Shopping_Buy_All.Properties.Resources.resources
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\PPAI_CU92_G2.csproj.GenerateResource.cache
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\PPAI_CU92_G2.csproj.CoreCompileInputs.cache
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\PPAI_CU92_G2.csproj.CopyComplete
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\Shopping Buy All.exe
+D:\DSI\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\Shopping Buy All.pdb
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Frm_Login.resources
+C:\Users\amiko\Desktop\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\PPAI_CU92_G2.csprojAssemblyReference.cache
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Shopping Buy All.exe.config
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Shopping Buy All.exe
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Shopping Buy All.pdb
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\EnvDTE.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\stdole.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.MSXML.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\PPAI_CU92_G2.csproj.AssemblyReference.cache
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\Shopping_Buy_All.Clases.DateTimePicker01.resources
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\Shopping_Buy_All.Form1.resources
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\PPAI_CU92_G2.Formularios.Frm_FormularioDeReserva.resources
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\PPAI_CU92_G2.Formularios.Frm_inicio.resources
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Frm_Login.resources
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\PPAI_CU92_G2.Formularios.Frm_SeleccionEscuela.resources
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\Shopping_Buy_All.Properties.Resources.resources
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\PPAI_CU92_G2.csproj.GenerateResource.cache
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\PPAI_CU92_G2.csproj.CoreCompileInputs.cache
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\PPAI_CU92_G2.csproj.CopyComplete
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\Shopping Buy All.exe
+C:\Users\tinch\OneDrive\Escritorio\poche\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\Shopping Buy All.pdb
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Shopping Buy All.exe.config
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Shopping Buy All.exe
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Shopping Buy All.pdb
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\EnvDTE.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\stdole.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\Microsoft.MSXML.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\Shopping_Buy_All.Clases.DateTimePicker01.resources
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\Shopping_Buy_All.Form1.resources
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\PPAI_CU92_G2.Formularios.Frm_FormularioDeReserva.resources
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\PPAI_CU92_G2.Formularios.Frm_inicio.resources
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\Shopping_Buy_All.Formularios.Frm_Login.resources
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\PPAI_CU92_G2.Formularios.Frm_SeleccionEscuela.resources
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\Shopping_Buy_All.Properties.Resources.resources
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\PPAI_CU92_G2.csproj.GenerateResource.cache
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\PPAI_CU92_G2.csproj.CoreCompileInputs.cache
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\PPAI_CU92_G2.csproj.CopyComplete
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\Shopping Buy All.exe
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\Shopping Buy All.pdb
+C:\Users\amiko\Desktop\PPAI REENTREGA\PPAI-IMPLEMENTACION\Shopping Buy All\obj\Debug\PPAI_CU92_G2.csprojAssemblyReference.cache
